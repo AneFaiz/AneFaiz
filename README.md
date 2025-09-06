@@ -77,3 +77,8 @@ Currently self-learning, experimenting, and building cool stuff 🚀.
 
 💖 Thanks for visiting my profile!  
 ⭐ Don’t forget to star repos you like — it means a lot ✨  
+
+<!-- 🌊 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
