@@ -18,10 +18,6 @@
   <img src="https://img.shields.io/badge/Last%20Updated-Sep%202025-green?style=for-the-badge" alt="Last Update"/>
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=anefaiz&style=for-the-badge&color=blue)](https://github.com/anefaiz)  
-[![Followers](https://img.shields.io/github/followers/anefaiz?style=for-the-badge&logo=github)](https://github.com/anefaiz?tab=followers)  
-![Updated](https://img.shields.io/badge/Last%20Updated-Sep%202025-green?style=for-the-badge)
-
 ---
 
 ### 💡 About Me
