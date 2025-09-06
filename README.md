@@ -68,7 +68,7 @@ Currently self-learning, experimenting, and building cool stuff 🚀.
 - 📧 Email: `anefaiz23@gmail.com`  
 - 💬 Discord: `Marcello_10#9496`
 - 🌍 Website: `www.millodj.my.id`  
-
+- Invite My Bot: [Discord DJ - Discord Music Bot](https://discord.com/oauth2/authorize?client_id=1022139217935093770&permissions=40134339741696&scope=bot+applications.commands)
 ---
 
 💖 Thanks for visiting my profile!  
