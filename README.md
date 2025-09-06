@@ -60,7 +60,7 @@ Currently self-learning, experimenting, and building cool stuff 🚀.
 ### 🎲 Fun Facts
 - 🔧 I love breaking things just to fix them again  
 - ☕ Coffee keeps me alive during late-night coding  
-- 🎶 Sometimes I just chill with music on **Discord DJ bots**  
+- 🎶 Sometimes I just chill with music on [Discord DJ bots](https://discord.com/oauth2/authorize?client_id=1022139217935093770&permissions=40134339741696&scope=bot+applications.commands)
 
 ---
 
