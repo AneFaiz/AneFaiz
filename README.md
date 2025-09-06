@@ -39,7 +39,7 @@ Currently self-learning, experimenting, and building cool stuff 🚀.
 ---
 
 ### 🌐 Connect with me
-[![Discord Presence](https://lanyard.cnrad.dev/api/762337438869225533?theme=dark&bg=151515&borderRadius=15px&idleMessage=Probably%20coding%20something...)](https://discord.com/users/762337438869225533)
+[![Discord Presence](https://discord.com/api/guilds/993867537337024565/widget.png?style=banner2)](https://discord.com/users/762337438869225533)
 
 [![Join My Server](https://img.shields.io/discord/1028300568214651010?label=Join%20My%20Community&logo=discord&style=for-the-badge&color=5865F2)]([YOUR_DISCORD_INVITE](https://discord.gg/mjS5J2K3ep))
 
