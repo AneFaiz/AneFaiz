@@ -1,4 +1,22 @@
-# 👋 Hey there, welcome!
+<!-- 🎆 Banner Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi,%20I'm%20AneFaiz!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- ✨ Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=600&lines=Developer+%7C+Bot+Maker+%7C+Web+Explorer;Always+learning+new+things+🚀;Let's+build+something+awesome+together!"/>
+</p>
+
+---
+
+# 👋 Hey there, Welcome to my GitHub!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anefaiz&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/anefaiz?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Last%20Updated-Sep%202025-green?style=for-the-badge" alt="Last Update"/>
+</p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=anefaiz&style=for-the-badge&color=blue)](https://github.com/anefaiz)  
 [![Followers](https://img.shields.io/github/followers/anefaiz?style=for-the-badge&logo=github)](https://github.com/anefaiz?tab=followers)  
