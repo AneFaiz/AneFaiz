@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/Last%20Updated-Sep%202025-green?style=for-the-badge" alt="Last Update"/>
 </p>
 
----
-
 ### 💡 About Me
 Hi, I'm **AneFaiz**.  
 A developer who loves tinkering with **servers, bots, and web apps**.  
